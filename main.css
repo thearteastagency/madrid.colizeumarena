@@ -220,7 +220,10 @@ template {
   src: url(assets/f92e39ed4681889756db.woff) format("woff");
 }
 .text_big {
-  font-family: TT Squares, Helvetica, sans-serif;
+  font-family:
+    TT Squares,
+    Helvetica,
+    sans-serif;
   font-size: 55px;
   font-style: normal;
   font-weight: 700;
@@ -246,7 +249,10 @@ template {
   }
 }
 .text_middle {
-  font-family: TT Squares, Helvetica, sans-serif;
+  font-family:
+    TT Squares,
+    Helvetica,
+    sans-serif;
   font-size: 25px;
   font-style: normal;
   font-weight: 400;
@@ -272,7 +278,10 @@ template {
   }
 }
 .text_small {
-  font-family: TT Squares, Helvetica, sans-serif;
+  font-family:
+    TT Squares,
+    Helvetica,
+    sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 100;
@@ -283,7 +292,10 @@ template {
   text-transform: uppercase;
 }
 .text_hardware {
-  font-family: TT Squares, Helvetica, sans-serif;
+  font-family:
+    TT Squares,
+    Helvetica,
+    sans-serif;
   font-size: 30px;
   font-style: normal;
   font-weight: 600;
@@ -300,7 +312,10 @@ template {
   }
 }
 .text_hardware-row {
-  font-family: TT Squares, Helvetica, sans-serif;
+  font-family:
+    TT Squares,
+    Helvetica,
+    sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 700;
@@ -457,7 +472,7 @@ template {
   row-gap: 80px;
 }
 .hero__text-container h1 {
-  padding-bottom: 50px;
+  padding-bottom: 0;
 }
 @media screen and (max-width: 1600px) {
   .hero__text-container {
@@ -1359,7 +1374,9 @@ input:checked + .slider:before {
   left: 0;
   position: absolute;
   right: 0;
-  text-shadow: -3px -3px 0 #f8f005, 3px 3px 0 #000;
+  text-shadow:
+    -3px -3px 0 #f8f005,
+    3px 3px 0 #000;
   top: 0;
 }
 .button__book:hover:after {
@@ -1468,7 +1485,9 @@ input:checked + .slider:before {
   left: 0;
   position: absolute;
   right: 0;
-  text-shadow: -3px -3px 0 #f8f005, 3px 3px 0 #000;
+  text-shadow:
+    -3px -3px 0 #f8f005,
+    3px 3px 0 #000;
   top: 0;
 }
 .button__book:hover:after {
@@ -1632,7 +1651,10 @@ input:checked + .slider:before {
   color: #fe0;
 }
 .wechat-modal__title {
-  font-family: TT Squares, Helvetica, sans-serif;
+  font-family:
+    TT Squares,
+    Helvetica,
+    sans-serif;
   font-size: 24px;
   font-weight: 700;
   color: #fe0;
@@ -1640,7 +1662,10 @@ input:checked + .slider:before {
   text-transform: uppercase;
 }
 .wechat-modal__subtitle {
-  font-family: TT Squares, Helvetica, sans-serif;
+  font-family:
+    TT Squares,
+    Helvetica,
+    sans-serif;
   font-size: 16px;
   font-weight: 400;
   color: #fff;
